@@ -1,6 +1,6 @@
-# BITCOIN WALLET
+# UFO WALLET
 
-Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
+Welcome to _UFO Wallet_, a standalone UFO payment app for your Android device!
 
 This project contains several sub-projects:
 
@@ -9,10 +9,10 @@ This project contains several sub-projects:
  * __market__:
      App description and promo material for the Google Play app store.
  * __integration-android__:
-     A tiny library for integrating Bitcoin payments into your own Android app
+     A tiny library for integrating UFO payments into your own Android app
      (e.g. donations, in-app purchases).
  * __sample-integration-android__:
-     A minimal example app to demonstrate the integration of Bitcoin payments into
+     A minimal example app to demonstrate the integration of UFO payments into
      your Android app.
 
 
