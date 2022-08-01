@@ -2,6 +2,8 @@
 
 Welcome to _UFO Wallet_, a standalone UFO payment app for your Android device!
 
+_Right now its bitcoin wallet. I rewrite bitcoinj library and then it will work for ufo_
+
 This project contains several sub-projects:
 
  * __wallet__:
